@@ -2,7 +2,7 @@
 
 This is a drag-and-drop resource that will restream the `handling.meta` for all base game vehicles.
 
-All vehicles have `<strAdvancedFlags>` added so that newer game features can be used, such as differentials, manual transmissions, and more.
+All vehicles as entirely stock and taken from the base game (thanks OpenIV ❤️) except that I've added `<strAdvancedFlags>` so that we can add cool new game features in real-time, such as differentials, manual transmissions, and more!
 
 Contains all vehicles up to **3407** (mp2024_02/Agents of Sabotage).
 
