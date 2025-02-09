@@ -4,7 +4,7 @@ This is a drag-and-drop resource that will restream the `handling.meta` for all 
 
 All vehicles have `<strAdvancedFlags>` added so that newer game features can be used, such as differentials, manual transmissions, and more.
 
-Contains all vehicles up to **3258** (mp2024_01).
+Contains all vehicles up to **3407** (mp2024_02/Agents of Sabotage).
 
 ## Installation
 
